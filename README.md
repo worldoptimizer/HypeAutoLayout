@@ -15,4 +15,4 @@ This extension helps with positioning elements using a stacking order. It should
 **Version history**  
 `1.0 Initial release under MIT-license`
 
-*PS: Would love to have a IDE preview in the future for this*
+*PS: Would love to have an IDE preview in the future for this*
