@@ -7,9 +7,6 @@ This extension helps with positioning elements using a stacking order. It should
 **Demo:**  
 [HypeAutoLayout.html](https://playground.maxziebell.de/Hype/AutoLayout/HypeAutoLayout.html)
 
-**Download:**   
-[HypeAutoLayout.hype.zip](https://playground.maxziebell.de/Hype/AutoLayout/HypeAutoLayout.hype.zip)
-
 **Version history**  
 `1.0 Initial release under MIT-license`
 
