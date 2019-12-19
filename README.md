@@ -1,6 +1,7 @@
 # HypeAutoLayout
 
-![HypeDocumentLoader|690x487](https://playground.maxziebell.de/Hype/AutoLayout/HypeAutoLayout.png) 
+![HypeDocumentLoader|690x487](https://playground.maxziebell.de/Hype/AutoLayout/HypeAutoLayout.png)
+<sup>The cover artwork is not hosted in this repository and &copy;opyrighted by Max Ziebell</sup>
 
 This little extension was initially more primitive and inspired by the following [thread](https://forums.tumult.com/t/move-divs-down-when-top-div-expands/17222?u=maxzieb). It then turned into a [template](https://forums.tumult.com/t/collapsible-stacked-symbols-accordion/17227?u=maxzieb) and now it has become a full extension after reading an article on the Figma auto layout feature.
 
