@@ -16,3 +16,15 @@ This extension helps with positioning elements using a stacking order. It should
 `1.0 Initial release under MIT-license`
 
 *PS: Would love to have an IDE preview in the future for this*
+
+Content Delivery Network (CDN)
+--
+Latest minified version can be linked into your project using the following in the head section of your project:
+```html
+<script src="https://cdn.jsdelivr.net/gh/worldoptimizer/HypeAutoLayout/HypeAutoLayout.min.js"></script>
+```
+
+Optionally you can also link a SRI version or specific releases. Read more about that on the jsDelivr's global Content Delivery Network (CDN) landing page for this extension at https://www.jsdelivr.com/package/gh/worldoptimizer/HypeAutoLayout
+
+Learn how to use the latest extension version and how to combine extentions into one file at
+https://github.com/worldoptimizer/HypeCookBook/wiki/Including-external-files-and-Hype-extensions
