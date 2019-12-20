@@ -1,6 +1,6 @@
 # HypeAutoLayout
 
-![HypeDocumentLoader|690x487](https://playground.maxziebell.de/Hype/AutoLayout/HypeAutoLayout.png)
+![HypeDocumentLoader|690x487](https://playground.maxziebell.de/Hype/AutoLayout/HypeAutoLayout.jpg)
 <sup>The cover artwork is not hosted in this repository and &copy;opyrighted by Max Ziebell</sup>
 
 This little extension was initially more primitive and inspired by the following [thread](https://forums.tumult.com/t/move-divs-down-when-top-div-expands/17222?u=maxzieb). It then turned into a [template](https://forums.tumult.com/t/collapsible-stacked-symbols-accordion/17227?u=maxzieb) and now it has become a full extension after reading an article on the Figma auto layout feature.
@@ -20,12 +20,13 @@ This extension helps with positioning elements using a stacking order. It should
 
 Content Delivery Network (CDN)
 --
-Latest minified version can be linked into your project using the following in the head section of your project:
+Latest version can be linked into your project using the following in the head section of your project:
 ```html
 <script src="https://cdn.jsdelivr.net/gh/worldoptimizer/HypeAutoLayout/HypeAutoLayout.min.js"></script>
 ```
 
-Optionally you can also link a SRI version or specific releases. Read more about that on the JsDelivr (CDN) page for this extension at https://www.jsdelivr.com/package/gh/worldoptimizer/HypeAutoLayout
+Optionally you can also link a SRI version or specific releases. 
+Read more about that on the JsDelivr (CDN) page for this extension at https://www.jsdelivr.com/package/gh/worldoptimizer/HypeAutoLayout
 
-Learn how to use the latest extension version and how to combine extentions into one file at
+Learn how to use the latest extension version and how to combine extensions into one file at
 https://github.com/worldoptimizer/HypeCookBook/wiki/Including-external-files-and-Hype-extensions
