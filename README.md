@@ -29,6 +29,7 @@ Latest version can be linked into your project using the following in the head s
 <sub>Load the extension **combined** with its dependency</sub> 
 ```html
 <script src="https://cdn.jsdelivr.net/combine/gh/worldoptimizer/HypeMutationObserver/HypeMutationObserver.min.js,gh/worldoptimizer/HypeAutoLayout/HypeAutoLayout.min.js"></script>
+```
 
 Optionally you can also link a SRI version or specific releases. 
 Read more about that on the JsDelivr (CDN) page for this extension at https://www.jsdelivr.com/package/gh/worldoptimizer/HypeAutoLayout
