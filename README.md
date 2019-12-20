@@ -21,15 +21,17 @@ This extension helps with positioning elements using a stacking order. It should
 Content Delivery Network (CDN)
 --
 Latest version can be linked into your project using the following in the head section of your project:
-<sub>Load only the extension</sub> 
+
+
 ```html
 <script src="https://cdn.jsdelivr.net/gh/worldoptimizer/HypeAutoLayout/HypeAutoLayout.min.js"></script>
 ```
+<sup>Loads only the extension</sup> 
 
-<sub>Load the extension **combined** with its dependency</sub> 
 ```html
 <script src="https://cdn.jsdelivr.net/combine/gh/worldoptimizer/HypeMutationObserver/HypeMutationObserver.min.js,gh/worldoptimizer/HypeAutoLayout/HypeAutoLayout.min.js"></script>
 ```
+<sup>Load the extension **combined** with its dependency</sup> 
 
 Optionally you can also link a SRI version or specific releases. 
 Read more about that on the JsDelivr (CDN) page for this extension at https://www.jsdelivr.com/package/gh/worldoptimizer/HypeAutoLayout
